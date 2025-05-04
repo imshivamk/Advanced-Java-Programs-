@@ -1,0 +1,63 @@
+1. write a java program to create three threads using the thread class and run them concurrently. each performing a different task.
+task 1 : calculate the factoirial of a number
+task 2: print the even numbers from 1 to 10,
+task 3: calculate the sum of digits of a given number.
+
+2. Java program to demonstrate concurrent execution of three threads using the runnable interface.
+task 1 : print odd numbers from 1 to 20 ,
+task 2: print the uppercase alphabets from a to e and the
+task 3 : print the lowercase alphabets from a to e.
+
+3. Implement a java program that creates and starts a thread to perform a specific task. inside the thread, use run(_) method, use yield( ) to give up the CPU momentarily, use sleep( ) to stop the thread execution for a specific amount of time. Demonstrate the use of stop() method to stop the thread abruptly.
+
+4. Write a java program which first creates a list and then determines negative , positive, even, odd numbers.
+
+5. Implement a java program that creates and starts multiple threads with multiple priorities.
+
+6. implement a java program, demonstrating the transaction in a bank, can be carried out concurrently using thread synchronization.
+
+7.  write a java program for implementing the following interthread communication methods : wait(). notify(). notifyAll()
+
+8. write a java program that uses a ArrayList to manage a list of student names.
+perform the following actions in it.
+a. add student to the list
+b. display the initial list of the student
+c. update the name of a student at a specific index
+d. remove a student by their name
+e. search for a student by name
+f. display the final list of students
+g. clear the student list
+
+9. write a java program demonstrate the basic operations like adding, removing, updating, searching and accessing elements in a vector.
+
+10. write a java program to implement a linked List in java. create methods to perform following operations on the linked list.
+a. Insert node at beginning
+b. insert node at list end.
+c. delete node from beginning
+d. delete the node from end of the list
+e. search for an element in the list and return its index
+f. display the elements of the list.
+
+11. write a java program to use iterator to travel through arrayList and perform the following operations :
+a. display all elements
+b. remove elements that satisfy the specific condition
+
+
+12. write a java program named HashSet and implement the following tasks within the program.
+a. initialize a hashSet named unique_Numbers
+b. populate the hashset with random integers between 1 to 20 , ensure that each numbers that's added is unique.
+c. display the contents of the hashSet
+d. implement a method named removeMultiples(int num ) which removes all the multiples of the given number
+e. display the updated Set after removing multiples of 5.
+
+13. write a java program that demonstrates the creation and manipulation of a linkedHashSet .The program should include the following functionalities.
+a. create linkedHashSet of Integers
+b. add elements
+c. remove elements from it
+d. iterate over the elements and display them
+
+14. write a java program to demonstrate concept of dictionaries in java and display the contents of dictionary on console.
+
+15. write a java program to implement JDBC connectivity to insert and delete records into and from a table.
+
+16. write a java program implement JDBC and add records of employees with their names, ages, and salary into an employee table.
